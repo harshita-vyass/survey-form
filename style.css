@@ -6,7 +6,7 @@
 
 body {
     background-color: blueviolet;
-    background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)), url("../images/survey-form-background.jpeg");
+    background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)), url("../survey-form/images/survey-form-background.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
